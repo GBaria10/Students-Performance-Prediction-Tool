@@ -79,7 +79,7 @@ const LoginPage = () => {
             </div>
             <div className="flex items-center gap-3 rounded-2xl bg-white/10 px-4 py-3 text-sm text-slate-100/90">
               <Shield className="h-5 w-5" />
-              JWT secured • MongoDB Atlas • FastAPI ML
+              JWT secured • MongoDB Atlas • FastAPI ML (This needs to be removed)
             </div>
           </div>
         </div>
