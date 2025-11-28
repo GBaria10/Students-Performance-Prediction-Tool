@@ -50,4 +50,4 @@ logs/
 
 #/tests
 
-frontend/src/pages/__tests__
+#frontend/src/pages/__tests__
