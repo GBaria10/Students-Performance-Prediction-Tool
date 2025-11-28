@@ -48,4 +48,4 @@ logs/
 *.sqlite
 *.db
 
-/tests
+#/tests
