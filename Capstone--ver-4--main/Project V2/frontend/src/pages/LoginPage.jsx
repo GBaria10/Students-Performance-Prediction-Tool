@@ -81,7 +81,7 @@ const LoginPage = () => {
               <Sparkles className="h-7 w-7" />
             </div>
             <h1 className="text-3xl font-semibold leading-tight text-white md:text-4xl">
-              Student Preformance Forecasting Tool
+              Student Performance Forecasting Tool
             </h1>
             <p className="text-lg text-slate-100/90">
               Securely onboard, predict CGPA, and monitor academic risk in one
