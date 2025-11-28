@@ -27,3 +27,4 @@ docker compose up --build
 - Rebuild after code changes: `docker compose build`
 - Tail logs: `docker compose logs -f backend` (or `frontend`, `ml-service`, `mongo`)
 - Stop everything: `docker compose down`
+Faltu commit
