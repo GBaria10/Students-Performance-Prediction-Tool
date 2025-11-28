@@ -37,8 +37,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Environment / secrets
-#.env
-#.env.*
+# Intentionally tracked per user request
 
 # Logs
 logs
