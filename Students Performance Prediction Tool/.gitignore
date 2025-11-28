@@ -49,3 +49,5 @@ logs/
 *.db
 
 #/tests
+
+frontend/src/pages/__tests__
