@@ -89,7 +89,7 @@ const LoginPage = () => {
             </p>
             <div className="grid grid-cols-2 gap-4 text-sm">
               <div className="rounded-2xl border border-white/15 bg-white/10 p-4">
-                <p className="text-3xl font-semibold">12</p>
+                <p className="text-3xl font-semibold">3</p>
                 <p className="text-slate-100/80">API endpoints ready</p>
               </div>
               <div className="rounded-2xl border border-white/15 bg-white/10 p-4">
