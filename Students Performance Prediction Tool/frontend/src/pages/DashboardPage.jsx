@@ -47,7 +47,7 @@ const DashboardPage = () => {
               <StatCard
                 icon={Sparkles}
                 label="Ready Endpoints"
-                value="12"
+                value="3"
                 accent="bg-primary/80"
               />
               <StatCard
